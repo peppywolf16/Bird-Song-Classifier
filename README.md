@@ -1,14 +1,5 @@
 # Project_Bird-Song-Classifier-with-Machine-Learning
 
-Refer to the project page on my website for detailed discussion on the project, including steps performed to process and clean the dataset and model reults evaluation.
-
-Project page: https://rachlllg.github.io/project/2023-Bird_Song_Classifier_with_Machine_Learning/
-
-## Background:
-This was the final project for the Applied Machine Learning class in my Masters in Data Science program. The original project involved four team members including myself, for the showcase/repo here, I have only presented the work I have done, unless noted otherwise.
-
-The project was very open-ended, the teams are free to select any topic of interest and any dataset pertaining to that topic, with the objective to build a machine learning model.
-
 All work was done in Google Colab (Free), with Python as the programming language. For training the deep neural networks (FFNN, CNN, and RNN), GPU is recommended to speed-up the processing time. Notable Python packages used:
 - standard: numpy, pandas
 - audio processing: librosa
